@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+openai
+python-multipart
+PyMuPDF
+python-jose[cryptography]
+passlib[bcrypt]
+pydantic-settings

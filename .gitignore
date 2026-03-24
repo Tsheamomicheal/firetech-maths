@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.db
+math_solver.db
+app/uploads/*
+!app/uploads/.gitkeep
